@@ -568,3 +568,9 @@ b, strong {
     vertical-align: top;
   }
 }
+
+.project-title{
+  font-size: 30px;
+  color: #ffc200;
+  font-weight: bold;
+}
